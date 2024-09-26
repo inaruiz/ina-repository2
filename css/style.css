@@ -1,0 +1,147 @@
+.logo-size{
+    width: 300px;
+    height: auto;
+}
+.nav-item{
+    margin-right: 50px;
+    font-family: "Playfair Display", serif;
+    color: black;
+    font-weight: weight;
+    font-size: 25px;
+}
+.carousel-inner img{
+    height: 700px;
+    object-fit: cover;
+}
+.img-circular{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.square-paragraph{
+    width: 100%;
+    box-sizing: border-box;
+   padding: 10px; 
+    overflow: hidden;
+    margin: 0; 
+    text-align: justify;
+    color: #535353;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+            font-weight: lighter;
+            font-style: normal; 
+}
+
+.card-title{
+    font-family: "Playfair Display", serif;
+    color: #535353;
+    font-optical-sizing: auto;
+            font-weight: lighter;
+            font-style: normal; 
+}
+
+.btn-primary{
+    background-color:rgb(241, 241, 241); /* Cambia el color de fondo */
+    border-color: rgb(241, 241, 241); /* Cambia el color del borde */
+    color: rgb(44, 44, 44); /* Cambia el color del texto */
+    height: 40px;
+    width: 150px; 
+    border-radius: 20px; /* Bordes redondeados */
+    margin-top: 5px; /* Espacio arriba del botón */
+    font-family: "Playfair Display", serif;
+    text-align: center;
+  
+
+}
+
+.btn-primary:hover{
+    background-color: #c4c4c3;
+    border-color: #c4c4c3;
+    
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    font-family: "Playfair Display", serif;
+    font-size: 12px;
+    min-height: 100px;
+    padding: 20px 0;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.logo-size-footer{
+    width: 200px;
+    height: auto;
+    margin-top: 58px;
+}
+
+.card-footer h6{
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    margin-top: 55px;
+    line-height: 4;
+}
+.iframe {
+    margin-top: 10px;
+
+}
+
+.imagen-secondpage{
+    padding: 30px;
+    margin-left: 300px; 
+    width: 365px;
+    height: auto;
+
+}
+.imagen-thirdpage {
+    padding: 30px;
+    margin-left: 300px; 
+    width: 390px;
+    height: auto;
+
+}
+.imagen-fifhtpage{
+    padding: 30px;
+    margin-left: 300px; 
+    width: 410px;
+    height: auto;   
+}
+.imagen-fourthpage{
+    padding: 30px;
+    margin-left: 300px; 
+    width: 410px;
+    height: auto;
+}
+.body-secundario-text{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px; 
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: justify;
+    color: #535353;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+            font-weight: lighter;
+            font-style: normal; 
+}
+.titulo-secundario{
+    margin-right: 50px;
+    margin-bottom: 3px;
+    margin-top: 30px;
+    padding-top: 60px;
+    font-family: "Playfair Display", serif;
+    color: #535353;
+    font-weight: weight;
+    font-size: 40px;
+    background-color: #c4c4c3;
+
+}
